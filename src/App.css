@@ -1,0 +1,12 @@
+.EquationInput {
+  width: 50px;
+}
+
+.modebar {
+  display: none !important;
+}
+
+a,
+a:visited {
+  color: rgb(0, 0, 238) !important;
+}
